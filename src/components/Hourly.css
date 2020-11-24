@@ -1,0 +1,20 @@
+.hourly-container {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 5vh;
+}
+
+.hourly-item {
+  font-size: 20px;
+  width: 100%;
+}
+
+.hourly-item p {
+  padding-bottom: 10px;
+  margin: 5px;
+  border-bottom: 1px solid #fff;
+  font-size: 13px;
+}

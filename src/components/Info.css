@@ -1,0 +1,13 @@
+.info-container {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 5vh;
+}
+
+.info-location {
+  font-size: 40px;
+}
+
+.info-date {
+  font-size: 15px;
+}

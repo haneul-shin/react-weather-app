@@ -1,0 +1,28 @@
+.form-container {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 5vh;
+}
+
+.search-input {
+  width: 70%;
+  padding: 15px;
+  padding-left: 25px;
+  border: 1px solid #fff;
+  border-radius: 10px 0px 0px 10px;
+  font-size: 15px;
+  color: rgb(27, 27, 27);
+}
+
+.search-input:focus {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.search-btn {
+  width: 30%;
+  padding: 15px;
+  font-size: 15px;
+  background: none;
+  border: 1px solid #fff;
+  border-radius: 0px 10px 10px 0px;
+}
